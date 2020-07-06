@@ -23,7 +23,7 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 * Test Score: 0.794 for k-value = 5 which seemed liked the best choice considering the relatively low complexity and high level of accuracy in comparison to the other k-values
 * Use grid search to fine tune parameters for the model and received a best score of 0.803 which is slightly higher than the initial test score of 0.794
 # Model Comparison
-* Model 2 - Decision Tree rendered the best test score among all 3 models at 85%. After fine tuning, the model's performance improved to 87%.
+* Model 2 - Decision Tree rendered the best test score among all 3 models at 85%. After fine tuning, the model's performance improved to 88%.
 * Model 1 - Logistical Regression rendered the second best test score at 82%. After fine tuning, the  model's performance declined to 78% but could be due to the parameters selected in the grid search. With additional time and grid search refining, I believe the results could be improved. 
 * Model 3 - K-Nearest renders the lowest test scores in terms of performance and I would not recommend using this model. 
 * Based on the dataset provided, I believe that the Decision Tree and Logistical Regression models could be used to accurately predict Exoplanets
