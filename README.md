@@ -1,2 +1,2 @@
 # Machine Learning - Exoplanet Exploration
-![alt text](https://richmond.bootcampcontent.com/Richmond-Boot-Camp/UR-RICH-DATA-PT-01-2020-U-C/raw/master/21-Machine-Learning/HW/Images/exoplanets.jpg)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.focus.it%2Fscienza%2Fspazio%2Fesopianeti-le-stagioni-fanno-pensare-alla-vita-aliena&psig=AOvVaw2B165IBGJPXQPZ7vUgTaQC&ust=1594142550790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODKtPeRueoCFQAAAAAdAAAAABAD)
