@@ -1,2 +1,2 @@
 # Machine Learning - Exoplanet Exploration
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.focus.it%2Fscienza%2Fspazio%2Fesopianeti-le-stagioni-fanno-pensare-alla-vita-aliena&psig=AOvVaw2B165IBGJPXQPZ7vUgTaQC&ust=1594142550790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODKtPeRueoCFQAAAAAdAAAAABAD)
+![Exoplanet image](https://user-images.githubusercontent.com/59347919/80314104-6027a100-87bd-11ea-81fa-7df084007f0a.PNG)
